@@ -1,2 +1,2 @@
-Prueba de comit
-Segunda prueba de comit
+Prueba de commit
+Segunda prueba de commit
